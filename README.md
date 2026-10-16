@@ -589,3 +589,4 @@ for Text-to-SQL
 - [AI2sql](https://ai2sql.io)
 -   - AI2sql is a Text-to-SQL tool that enables users to write SQL queries using natural language. It supports multiple databases including MySQL, PostgreSQL, SQL Server, and more. Perfect for data analysts, developers, and anyone who needs to query databases without deep SQL knowledge.
   [![Star History Chart](https://api.star-history.com/svg?repos=eosphoros-ai/Awesome-Text2SQL&type=Date)](https://star-history.com/#eosphoros-ai/Awesome-Text2SQL)
+
